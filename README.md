@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/otni rodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otni rodrigues" height="30" width="40" /></a>
-    <a href="https://fb.com/otni rodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="otni rodrigues" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/otni-rodrigues-1b0a161a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otni rodrigues" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/Otni.Rodrigues/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="otni rodrigues" height="30" width="40" /></a>
     <a href="https://instagram.com/otni_rodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otni_rodrigues" height="30" width="40" /></a>
 </p>
 
